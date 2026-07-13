@@ -8,6 +8,11 @@
   Machine Learning · Homelab · Web · Embedded · Cats
 </p>
 
+<p align="center">
+  <a href="https://farhankf.my.id"><img src="https://img.shields.io/badge/🐈%20farhankf.my.id-303446?style=for-the-badge" alt="Website"></a>
+</p>
+
+
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
