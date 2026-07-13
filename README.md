@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Farhan </h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="Farhan Kurnia — computer, statistics, machine learning, cats" width="100%">
+</p>
 
 <p align="center">
-  Computer Science undergrad · Indonesia<br>
+  Anything Computer Science
   Machine Learning · Homelab · Web · Embedded · Cats
 </p>
 
