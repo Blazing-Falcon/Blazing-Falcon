@@ -1,0 +1,48 @@
+<svg viewBox="0 0 1000 280" width="1000" height="280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Farhan Kurnia — computer, statistics, machine learning, cats">
+  <style>
+    .display { font-family: ui-rounded, "SF Pro Rounded", system-ui, "Segoe UI", sans-serif; font-weight: 800; }
+    .eyebrow { font-family: ui-monospace, "Cascadia Code", Menlo, Consolas, monospace; font-weight: 500; letter-spacing: 4px; }
+    .tail { transform-origin: 758px 196px; animation: sway 4s ease-in-out infinite; }
+    .zzz  { animation: drift 5s ease-in infinite; opacity: 0; }
+    .z2 { animation-delay: 1.6s; }
+    .z3 { animation-delay: 3.2s; }
+    @keyframes sway    { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(-6deg); } }
+    @keyframes drift   { 0% { opacity: 0; transform: translate(0,0); } 15% { opacity: .9; } 100% { opacity: 0; transform: translate(16px,-34px); } }
+    @media (prefers-reduced-motion: reduce) { .tail, .zzz { animation: none; } .zzz { opacity: .7; } }
+  </style>
+
+  <rect x="0" y="0" width="1000" height="280" rx="16" fill="#303446"/>
+  <rect x="1.5" y="1.5" width="997" height="277" rx="14.5" fill="none" stroke="#414559" stroke-width="3"/>
+
+  <line x1="64" y1="196" x2="936" y2="196" stroke="#414559" stroke-width="3" stroke-linecap="round"/>
+
+  <text class="eyebrow" x="66" y="118" font-size="15" fill="#a5adce">~/farhan-kurnia</text>
+  <text class="display" x="64" y="182" font-size="58" fill="#c6d0f5">Farhan <tspan fill="#ca9ee6">Kurnia</tspan></text>
+  <text class="eyebrow" x="66" y="232" font-size="14" fill="#737994">computer · statistics · machine learning · cats</text>
+
+  <g id="mascot" stroke="#ca9ee6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path class="tail" d="M758 186 q 46 -6 54 18 q 5 16 -14 20" fill="none"/>
+    <path d="M652 196 q -4 -52 56 -54 q 58 -2 60 54 z" fill="#51576d"/>
+    <g>
+      <path d="M624 196 q -8 -44 34 -46 q 40 -2 36 46 z" fill="#626880"/>
+      <path d="M630 158 l -4 -18 l 18 8 z" fill="#626880"/>
+      <path d="M676 155 l 6 -17 l -19 6 z" fill="#626880"/>
+      <path d="M632 156 l -1.5 -9 l 9 4 z" fill="#f4b8e4" stroke="none"/>
+      <path d="M674 153 l 3 -8.5 l -9.5 3 z" fill="#f4b8e4" stroke="none"/>
+      <path d="M636 178 q 4 5 9 0" fill="none" stroke="#f4b8e4" stroke-width="3"/>
+      <path d="M660 178 q 4 5 9 0" fill="none" stroke="#f4b8e4" stroke-width="3"/>
+      <path d="M649 187 q 3 3 6 0" fill="none" stroke="#f4b8e4" stroke-width="2.5"/>
+      <circle cx="631" cy="187" r="3.5" fill="#eebebe" stroke="none" opacity="0.85"/>
+      <circle cx="672" cy="187" r="3.5" fill="#eebebe" stroke="none" opacity="0.85"/>
+      <path d="M616 180 h 10 M616 188 h 10 M678 180 h 10 M678 188 h 10" stroke="#babbf1" stroke-width="2"/>
+    </g>
+    <path d="M640 196 q 2 7 9 7 q 7 0 8 -7" fill="#626880"/>
+    <path d="M660 196 q 2 7 9 7 q 7 0 8 -7" fill="#626880"/>
+  </g>
+
+  <g class="eyebrow" font-size="16" fill="#ca9ee6">
+    <text class="zzz"    x="700" y="140">z</text>
+    <text class="zzz z2" x="712" y="128" font-size="13">z</text>
+    <text class="zzz z3" x="724" y="118" font-size="11">z</text>
+  </g>
+</svg>
