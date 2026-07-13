@@ -4,6 +4,7 @@
 
 <p align="center">
   Anything Computer Science
+  <br>
   Machine Learning · Homelab · Web · Embedded · Cats
 </p>
 
