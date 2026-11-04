@@ -1,0 +1,86 @@
+{
+  "today": "2026-11-04",
+  "since": "2021-04-12",
+  "repos": 16,
+  "languages": [
+    [
+      "Python",
+      3
+    ],
+    [
+      "Jupyter Notebook",
+      3
+    ],
+    [
+      "Shell",
+      2
+    ],
+    [
+      "Astro",
+      2
+    ],
+    [
+      "Rust",
+      1
+    ],
+    [
+      "TypeScript",
+      1
+    ],
+    [
+      "C",
+      1
+    ],
+    [
+      "PowerShell",
+      1
+    ],
+    [
+      "Java",
+      1
+    ]
+  ],
+  "contributions": 1312,
+  "streak": 6,
+  "best": 31,
+  "commits_by_year": [
+    [
+      2021,
+      13
+    ],
+    [
+      2022,
+      2
+    ],
+    [
+      2023,
+      30
+    ],
+    [
+      2024,
+      42
+    ],
+    [
+      2025,
+      70
+    ],
+    [
+      2026,
+      962
+    ]
+  ],
+  "recent_commits": [
+    {
+      "date": "2026-11-03",
+      "repo": "iwlwifi-lar-dkms",
+      "sha": "2fb4c4e",
+      "message": "docs: streamline README"
+    },
+    {
+      "date": "2026-11-03",
+      "repo": "live-caption-translate",
+      "sha": "6b4eb36",
+      "message": "chore: bump version to 1.1.0"
+    }
+  ]
+}
