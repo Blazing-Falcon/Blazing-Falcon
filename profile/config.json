@@ -20,9 +20,9 @@
     ["data-ml", "b6", ["numpy", "pandas", "scikit-learn", "transformers", "streamlit", "jupyter"]],
     ["apps", "b5", ["tauri", "llama.cpp", "sherpa-onnx", "discord.py"]],
     ["web", "b4", ["astro", "next.js", "react", "tailwind", "zod", "cloudflare"]],
-    ["infra", "b3", ["linux", "arch", "proxmox", "truenas", "docker", "git"]],
-    ["monitoring", "b2", ["grafana", "prometheus", "alertmanager", "pi-hole", "dnsdist"]],
-    ["network", "b1", ["opnsense", "openwrt", "tailscale"]],
+    ["infra", "b3", ["linux", "arch", "proxmox", "truenas", "docker", "portainer", "git"]],
+    ["monitoring", "b2", ["grafana", "prometheus", "alertmanager"]],
+    ["network", "b1", ["opnsense", "openwrt", "tailscale", "pi-hole", "dnsdist"]],
     ["low-level", "accent", ["dkms", "android-kernel", "arduino"]],
     ["writing", "sub", ["latex"]]
   ],
