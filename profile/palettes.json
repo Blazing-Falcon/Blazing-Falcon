@@ -1,0 +1,704 @@
+{
+  "catppuccin-frappe": {
+    "name": "Catppuccin Frappé",
+    "light": "catppuccin-latte",
+    "v": {
+      "bg": "#303446",
+      "bar": "#292c3c",
+      "border": "#414559",
+      "fg": "#c6d0f5",
+      "sub": "#838ba7",
+      "dim": "#626880",
+      "user": "#ca9ee6",
+      "host": "#babbf1",
+      "path": "#8caaee",
+      "prompt": "#a6d189",
+      "key": "#ca9ee6",
+      "accent": "#f4b8e4",
+      "ansi": [
+        "#51576d",
+        "#e78284",
+        "#a6d189",
+        "#e5c890",
+        "#8caaee",
+        "#f4b8e4",
+        "#81c8be",
+        "#b5bfe2"
+      ],
+      "bright": [
+        "#626880",
+        "#e78284",
+        "#a6d189",
+        "#e5c890",
+        "#8caaee",
+        "#f4b8e4",
+        "#81c8be",
+        "#a5adce"
+      ],
+      "tint": [
+        "#626880",
+        "#838ba7",
+        "#babbf1",
+        "#ca9ee6",
+        "#f4b8e4"
+      ],
+      "snake": [
+        "#414559",
+        "#7d6a9e",
+        "#9a7fc2",
+        "#b48ed6",
+        "#ca9ee6",
+        "#f4b8e4"
+      ],
+      "warm": "#ef9f76"
+    }
+  },
+  "catppuccin-mocha": {
+    "name": "Catppuccin Mocha",
+    "light": "catppuccin-latte",
+    "v": {
+      "bg": "#1e1e2e",
+      "bar": "#181825",
+      "border": "#313244",
+      "fg": "#cdd6f4",
+      "sub": "#7f849c",
+      "dim": "#585b70",
+      "user": "#cba6f7",
+      "host": "#b4befe",
+      "path": "#89b4fa",
+      "prompt": "#a6e3a1",
+      "key": "#cba6f7",
+      "accent": "#f5c2e7",
+      "ansi": [
+        "#45475a",
+        "#f38ba8",
+        "#a6e3a1",
+        "#f9e2af",
+        "#89b4fa",
+        "#f5c2e7",
+        "#94e2d5",
+        "#bac2de"
+      ],
+      "bright": [
+        "#585b70",
+        "#f38ba8",
+        "#a6e3a1",
+        "#f9e2af",
+        "#89b4fa",
+        "#f5c2e7",
+        "#94e2d5",
+        "#a6adc8"
+      ],
+      "tint": [
+        "#585b70",
+        "#7f849c",
+        "#b4befe",
+        "#cba6f7",
+        "#f5c2e7"
+      ],
+      "snake": [
+        "#313244",
+        "#6e5a9a",
+        "#8d72c4",
+        "#ad8ce6",
+        "#cba6f7",
+        "#f5c2e7"
+      ],
+      "warm": "#fab387"
+    }
+  },
+  "catppuccin-latte": {
+    "name": "Catppuccin Latte",
+    "light": null,
+    "v": {
+      "bg": "#eff1f5",
+      "bar": "#e6e9ef",
+      "border": "#ccd0da",
+      "fg": "#4c4f69",
+      "sub": "#8c8fa1",
+      "dim": "#acb0be",
+      "user": "#8839ef",
+      "host": "#7287fd",
+      "path": "#1e66f5",
+      "prompt": "#40a02b",
+      "key": "#8839ef",
+      "accent": "#ea76cb",
+      "ansi": [
+        "#5c5f77",
+        "#d20f39",
+        "#40a02b",
+        "#df8e1d",
+        "#1e66f5",
+        "#ea76cb",
+        "#179299",
+        "#acb0be"
+      ],
+      "bright": [
+        "#6c6f85",
+        "#d20f39",
+        "#40a02b",
+        "#df8e1d",
+        "#1e66f5",
+        "#ea76cb",
+        "#179299",
+        "#bcc0cc"
+      ],
+      "tint": [
+        "#bcc0cc",
+        "#9ca0b0",
+        "#7287fd",
+        "#8839ef",
+        "#4c4f69"
+      ],
+      "snake": [
+        "#e6e9ef",
+        "#d7c4f5",
+        "#bb98f0",
+        "#a06ae9",
+        "#8839ef",
+        "#ea76cb"
+      ],
+      "warm": "#fe640b"
+    }
+  },
+  "tokyonight": {
+    "name": "Tokyo Night",
+    "light": "tokyonight-day",
+    "v": {
+      "bg": "#1a1b26",
+      "bar": "#16161e",
+      "border": "#292e42",
+      "fg": "#c0caf5",
+      "sub": "#565f89",
+      "dim": "#414868",
+      "user": "#bb9af7",
+      "host": "#7dcfff",
+      "path": "#7aa2f7",
+      "prompt": "#9ece6a",
+      "key": "#7aa2f7",
+      "accent": "#bb9af7",
+      "ansi": [
+        "#414868",
+        "#f7768e",
+        "#9ece6a",
+        "#e0af68",
+        "#7aa2f7",
+        "#bb9af7",
+        "#7dcfff",
+        "#a9b1d6"
+      ],
+      "bright": [
+        "#565f89",
+        "#ff899d",
+        "#9fe044",
+        "#faba4a",
+        "#8db0ff",
+        "#c7a9ff",
+        "#a4daff",
+        "#c0caf5"
+      ],
+      "tint": [
+        "#414868",
+        "#565f89",
+        "#7aa2f7",
+        "#bb9af7",
+        "#c0caf5"
+      ],
+      "snake": [
+        "#292e42",
+        "#3d59a1",
+        "#5a77c7",
+        "#7aa2f7",
+        "#bb9af7",
+        "#ff9e64"
+      ],
+      "warm": "#ff9e64"
+    }
+  },
+  "tokyonight-day": {
+    "name": "Tokyo Night Day",
+    "light": null,
+    "v": {
+      "bg": "#e1e2e7",
+      "bar": "#d0d5e3",
+      "border": "#c4c8da",
+      "fg": "#3760bf",
+      "sub": "#848cb5",
+      "dim": "#a8aecb",
+      "user": "#9854f1",
+      "host": "#007197",
+      "path": "#2e7de9",
+      "prompt": "#587539",
+      "key": "#2e7de9",
+      "accent": "#9854f1",
+      "ansi": [
+        "#a1a6c5",
+        "#f52a65",
+        "#587539",
+        "#8c6c3e",
+        "#2e7de9",
+        "#9854f1",
+        "#007197",
+        "#6172b0"
+      ],
+      "bright": [
+        "#848cb5",
+        "#ff4774",
+        "#5c8524",
+        "#a27629",
+        "#358aff",
+        "#a463ff",
+        "#007ea8",
+        "#3760bf"
+      ],
+      "tint": [
+        "#a8aecb",
+        "#848cb5",
+        "#2e7de9",
+        "#9854f1",
+        "#3760bf"
+      ],
+      "snake": [
+        "#e9e9ed",
+        "#b7c1e3",
+        "#92a6d5",
+        "#6183bb",
+        "#2e7de9",
+        "#9854f1"
+      ],
+      "warm": "#b15c00"
+    }
+  },
+  "gruvbox": {
+    "name": "Gruvbox",
+    "light": "gruvbox-light",
+    "v": {
+      "bg": "#282828",
+      "bar": "#1d2021",
+      "border": "#3c3836",
+      "fg": "#ebdbb2",
+      "sub": "#928374",
+      "dim": "#665c54",
+      "user": "#fe8019",
+      "host": "#fabd2f",
+      "path": "#83a598",
+      "prompt": "#b8bb26",
+      "key": "#fabd2f",
+      "accent": "#fe8019",
+      "ansi": [
+        "#504945",
+        "#cc241d",
+        "#98971a",
+        "#d79921",
+        "#458588",
+        "#b16286",
+        "#689d6a",
+        "#a89984"
+      ],
+      "bright": [
+        "#928374",
+        "#fb4934",
+        "#b8bb26",
+        "#fabd2f",
+        "#83a598",
+        "#d3869b",
+        "#8ec07c",
+        "#ebdbb2"
+      ],
+      "tint": [
+        "#665c54",
+        "#928374",
+        "#d79921",
+        "#fe8019",
+        "#ebdbb2"
+      ],
+      "snake": [
+        "#3c3836",
+        "#5f5f14",
+        "#79740e",
+        "#98971a",
+        "#b8bb26",
+        "#fe8019"
+      ],
+      "warm": "#fe8019"
+    }
+  },
+  "gruvbox-light": {
+    "name": "Gruvbox Light",
+    "light": null,
+    "v": {
+      "bg": "#fbf1c7",
+      "bar": "#f2e5bc",
+      "border": "#d5c4a1",
+      "fg": "#3c3836",
+      "sub": "#928374",
+      "dim": "#bdae93",
+      "user": "#af3a03",
+      "host": "#b57614",
+      "path": "#076678",
+      "prompt": "#79740e",
+      "key": "#b57614",
+      "accent": "#af3a03",
+      "ansi": [
+        "#7c6f64",
+        "#cc241d",
+        "#98971a",
+        "#d79921",
+        "#458588",
+        "#b16286",
+        "#689d6a",
+        "#a89984"
+      ],
+      "bright": [
+        "#928374",
+        "#9d0006",
+        "#79740e",
+        "#b57614",
+        "#076678",
+        "#8f3f71",
+        "#427b58",
+        "#3c3836"
+      ],
+      "tint": [
+        "#d5c4a1",
+        "#bdae93",
+        "#d79921",
+        "#af3a03",
+        "#9d0006"
+      ],
+      "snake": [
+        "#ebdbb2",
+        "#d9d6a2",
+        "#b8bb26",
+        "#98971a",
+        "#79740e",
+        "#af3a03"
+      ],
+      "warm": "#af3a03"
+    }
+  },
+  "rosepine": {
+    "name": "Rosé Pine",
+    "light": "rosepine-dawn",
+    "v": {
+      "bg": "#191724",
+      "bar": "#1f1d2e",
+      "border": "#26233a",
+      "fg": "#e0def4",
+      "sub": "#908caa",
+      "dim": "#6e6a86",
+      "user": "#ebbcba",
+      "host": "#c4a7e7",
+      "path": "#9ccfd8",
+      "prompt": "#31748f",
+      "key": "#c4a7e7",
+      "accent": "#ebbcba",
+      "ansi": [
+        "#26233a",
+        "#eb6f92",
+        "#31748f",
+        "#f6c177",
+        "#9ccfd8",
+        "#c4a7e7",
+        "#ebbcba",
+        "#e0def4"
+      ],
+      "bright": [
+        "#6e6a86",
+        "#eb6f92",
+        "#31748f",
+        "#f6c177",
+        "#9ccfd8",
+        "#c4a7e7",
+        "#ebbcba",
+        "#e0def4"
+      ],
+      "tint": [
+        "#6e6a86",
+        "#908caa",
+        "#c4a7e7",
+        "#ebbcba",
+        "#e0def4"
+      ],
+      "snake": [
+        "#26233a",
+        "#4f3f6b",
+        "#7a5fa0",
+        "#a383cf",
+        "#c4a7e7",
+        "#eb6f92"
+      ],
+      "warm": "#ebbcba"
+    }
+  },
+  "rosepine-dawn": {
+    "name": "Rosé Pine Dawn",
+    "light": null,
+    "v": {
+      "bg": "#faf4ed",
+      "bar": "#fffaf3",
+      "border": "#f2e9e1",
+      "fg": "#575279",
+      "sub": "#797593",
+      "dim": "#9893a5",
+      "user": "#d7827e",
+      "host": "#907aa9",
+      "path": "#56949f",
+      "prompt": "#286983",
+      "key": "#907aa9",
+      "accent": "#d7827e",
+      "ansi": [
+        "#9893a5",
+        "#b4637a",
+        "#286983",
+        "#ea9d34",
+        "#56949f",
+        "#907aa9",
+        "#d7827e",
+        "#575279"
+      ],
+      "bright": [
+        "#797593",
+        "#b4637a",
+        "#286983",
+        "#ea9d34",
+        "#56949f",
+        "#907aa9",
+        "#d7827e",
+        "#575279"
+      ],
+      "tint": [
+        "#dfdad9",
+        "#9893a5",
+        "#907aa9",
+        "#d7827e",
+        "#575279"
+      ],
+      "snake": [
+        "#f2e9e1",
+        "#dcd0e6",
+        "#c3b0d6",
+        "#a991c0",
+        "#907aa9",
+        "#b4637a"
+      ],
+      "warm": "#d7827e"
+    }
+  },
+  "nord": {
+    "name": "Nord",
+    "light": null,
+    "v": {
+      "bg": "#2e3440",
+      "bar": "#272c36",
+      "border": "#3b4252",
+      "fg": "#d8dee9",
+      "sub": "#616e88",
+      "dim": "#4c566a",
+      "user": "#88c0d0",
+      "host": "#81a1c1",
+      "path": "#8fbcbb",
+      "prompt": "#a3be8c",
+      "key": "#88c0d0",
+      "accent": "#88c0d0",
+      "ansi": [
+        "#3b4252",
+        "#bf616a",
+        "#a3be8c",
+        "#ebcb8b",
+        "#81a1c1",
+        "#b48ead",
+        "#88c0d0",
+        "#e5e9f0"
+      ],
+      "bright": [
+        "#4c566a",
+        "#bf616a",
+        "#a3be8c",
+        "#ebcb8b",
+        "#81a1c1",
+        "#b48ead",
+        "#8fbcbb",
+        "#eceff4"
+      ],
+      "tint": [
+        "#4c566a",
+        "#616e88",
+        "#81a1c1",
+        "#88c0d0",
+        "#eceff4"
+      ],
+      "snake": [
+        "#3b4252",
+        "#4c6a7f",
+        "#5e81ac",
+        "#81a1c1",
+        "#88c0d0",
+        "#ebcb8b"
+      ],
+      "warm": "#d08770"
+    }
+  },
+  "dracula": {
+    "name": "Dracula",
+    "light": null,
+    "v": {
+      "bg": "#282a36",
+      "bar": "#21222c",
+      "border": "#44475a",
+      "fg": "#f8f8f2",
+      "sub": "#6272a4",
+      "dim": "#44475a",
+      "user": "#ff79c6",
+      "host": "#bd93f9",
+      "path": "#8be9fd",
+      "prompt": "#50fa7b",
+      "key": "#bd93f9",
+      "accent": "#ff79c6",
+      "ansi": [
+        "#21222c",
+        "#ff5555",
+        "#50fa7b",
+        "#f1fa8c",
+        "#bd93f9",
+        "#ff79c6",
+        "#8be9fd",
+        "#f8f8f2"
+      ],
+      "bright": [
+        "#6272a4",
+        "#ff6e6e",
+        "#69ff94",
+        "#ffffa5",
+        "#d6acff",
+        "#ff92df",
+        "#a4ffff",
+        "#ffffff"
+      ],
+      "tint": [
+        "#44475a",
+        "#6272a4",
+        "#bd93f9",
+        "#ff79c6",
+        "#f8f8f2"
+      ],
+      "snake": [
+        "#44475a",
+        "#5e4b8b",
+        "#8065b5",
+        "#a17fe0",
+        "#bd93f9",
+        "#ff79c6"
+      ],
+      "warm": "#ffb86c"
+    }
+  },
+  "everforest": {
+    "name": "Everforest",
+    "light": "everforest-light",
+    "v": {
+      "bg": "#2d353b",
+      "bar": "#232a2e",
+      "border": "#343f44",
+      "fg": "#d3c6aa",
+      "sub": "#859289",
+      "dim": "#56635f",
+      "user": "#a7c080",
+      "host": "#83c092",
+      "path": "#7fbbb3",
+      "prompt": "#a7c080",
+      "key": "#a7c080",
+      "accent": "#e69875",
+      "ansi": [
+        "#475258",
+        "#e67e80",
+        "#a7c080",
+        "#dbbc7f",
+        "#7fbbb3",
+        "#d699b6",
+        "#83c092",
+        "#d3c6aa"
+      ],
+      "bright": [
+        "#859289",
+        "#e67e80",
+        "#a7c080",
+        "#dbbc7f",
+        "#7fbbb3",
+        "#d699b6",
+        "#83c092",
+        "#d3c6aa"
+      ],
+      "tint": [
+        "#56635f",
+        "#859289",
+        "#83c092",
+        "#a7c080",
+        "#d3c6aa"
+      ],
+      "snake": [
+        "#343f44",
+        "#4b5c45",
+        "#6d8656",
+        "#8aa36a",
+        "#a7c080",
+        "#e69875"
+      ],
+      "warm": "#e69875"
+    }
+  },
+  "everforest-light": {
+    "name": "Everforest Light",
+    "light": null,
+    "v": {
+      "bg": "#fdf6e3",
+      "bar": "#f4f0d9",
+      "border": "#e6e2cc",
+      "fg": "#5c6a72",
+      "sub": "#939f91",
+      "dim": "#bdc3af",
+      "user": "#8da101",
+      "host": "#35a77c",
+      "path": "#3a94c5",
+      "prompt": "#8da101",
+      "key": "#8da101",
+      "accent": "#f57d26",
+      "ansi": [
+        "#829181",
+        "#f85552",
+        "#8da101",
+        "#dfa000",
+        "#3a94c5",
+        "#df69ba",
+        "#35a77c",
+        "#5c6a72"
+      ],
+      "bright": [
+        "#939f91",
+        "#f85552",
+        "#8da101",
+        "#dfa000",
+        "#3a94c5",
+        "#df69ba",
+        "#35a77c",
+        "#5c6a72"
+      ],
+      "tint": [
+        "#e6e2cc",
+        "#bdc3af",
+        "#35a77c",
+        "#8da101",
+        "#5c6a72"
+      ],
+      "snake": [
+        "#efebd4",
+        "#d5dca8",
+        "#b6c46a",
+        "#a0b236",
+        "#8da101",
+        "#f57d26"
+      ],
+      "warm": "#f57d26"
+    }
+  }
+}

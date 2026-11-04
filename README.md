@@ -1,48 +1,30 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Farhan Kurnia — computer, statistics, machine learning, cats" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  Anything Computer Science
-  <br>
-  Machine Learning · Homelab · Web · Embedded · Cats
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img src="assets/terminal-light.svg" width="100%" alt="Terminal running fastfetch: an FK logo next to system info. ML, systems and web tinkerer, home labber.">
+</picture>
 
-<p align="center">
-  <a href="https://farhankf.my.id"><img src="https://img.shields.io/badge/🐈%20farhankf.my.id-303446?style=for-the-badge" alt="Website"></a>
-</p>
+<a href="https://farhankf.my.id">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/button-dark.svg">
+    <img src="assets/button-light.svg" width="260" alt="Visit farhankf.my.id">
+  </picture>
+</a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
+  <img src="assets/tech-stack-light.svg" width="100%" alt="Tech stack as a directory tree: languages, data and ML, apps, web, infra, monitoring, network, low-level and writing tools">
+</picture>
 
-<h2 align="center">Tech Stack</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg">
+  <img src="assets/commits-light.svg" width="100%" alt="Commits per year, current streak, and my latest commits in public repos">
+</picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-303446?style=for-the-badge&logo=python&logoColor=ca9ee6" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-303446?style=for-the-badge&logo=numpy&logoColor=8caaee" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-303446?style=for-the-badge&logo=pandas&logoColor=f4b8e4" alt="Pandas">
-  <img src="https://img.shields.io/badge/Jupyter-303446?style=for-the-badge&logo=jupyter&logoColor=ef9f76" alt="Jupyter">
-  <img src="https://img.shields.io/badge/C-303446?style=for-the-badge&logo=c&logoColor=8caaee" alt="C">
-  <img src="https://img.shields.io/badge/LaTeX-303446?style=for-the-badge&logo=latex&logoColor=81c8be" alt="LaTeX">
-  <br>
-  <img src="https://img.shields.io/badge/Astro-303446?style=for-the-badge&logo=astro&logoColor=e78284" alt="Astro">
-  <img src="https://img.shields.io/badge/Cloudflare-303446?style=for-the-badge&logo=cloudflare&logoColor=ef9f76" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Linux-303446?style=for-the-badge&logo=linux&logoColor=e5c890" alt="Linux">
-  <img src="https://img.shields.io/badge/Proxmox-303446?style=for-the-badge&logo=proxmox&logoColor=a6d189" alt="Proxmox">
-  <img src="https://img.shields.io/badge/Arduino-303446?style=for-the-badge&logo=arduino&logoColor=81c8be" alt="Arduino">
-  <img src="https://img.shields.io/badge/Git-303446?style=for-the-badge&logo=git&logoColor=e78284" alt="Git">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blazing-Falcon/Blazing-Falcon/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Blazing-Falcon/Blazing-Falcon/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph">
+</picture>
 
-<h2 align="center">Stats</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Blazing-Falcon&theme=catppuccin-frappe&hide_border=true" alt="Streak">
-</p>
-
-<h2 align="center">🐍 Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Blazing-Falcon/Blazing-Falcon/output/github-snake.svg" alt="Contribution snake">
-</p>
-
-<p align="center">
-  <sub>themed with <a href="https://github.com/catppuccin/catppuccin">Catppuccin Frappé</a></sub>
-</p>
+</div>

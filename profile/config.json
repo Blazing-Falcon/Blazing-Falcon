@@ -1,0 +1,31 @@
+{
+  "login": "Blazing-Falcon",
+  "user": "farhan",
+  "host": "blazing-falcon",
+  "palette": "gruvbox",
+  "logo": "fk",
+  "website": "farhankf.my.id",
+  "fetch": [
+    ["Role", "ML, systems and web tinkerer, home labber"],
+    ["Based in", "Malang, Indonesia (UTC+7)"],
+    ["Focus", "machine learning, statistics, home lab"],
+    ["Languages", "{languages}"],
+    ["Home lab", "Proxmox VE, TrueNAS SCALE, ZFS"],
+    ["Network", "OPNsense, OpenWrt, Tailscale, Cloudflare Tunnel"],
+    ["On GitHub", "{uptime}, {repos} repos"],
+    ["Website", "{website}"]
+  ],
+  "tech_stack": [
+    ["languages", "key", "{languages}"],
+    ["data-ml", "b6", ["numpy", "pandas", "scikit-learn", "transformers", "streamlit", "jupyter"]],
+    ["apps", "b5", ["tauri", "llama.cpp", "sherpa-onnx", "discord.py"]],
+    ["web", "b4", ["astro", "next.js", "react", "tailwind", "zod", "cloudflare"]],
+    ["infra", "b3", ["linux", "arch", "proxmox", "truenas", "docker", "git"]],
+    ["monitoring", "b2", ["grafana", "prometheus", "alertmanager", "pi-hole", "dnsdist"]],
+    ["network", "b1", ["opnsense", "openwrt", "tailscale"]],
+    ["low-level", "accent", ["dkms", "android-kernel", "arduino"]],
+    ["writing", "sub", ["latex"]]
+  ],
+  "fetch_languages": 6,
+  "skip_language_names": ["Jupyter Notebook", "Astro"]
+}
