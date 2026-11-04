@@ -18,7 +18,8 @@ jobs:
         with:
           github_user_name: Blazing-Falcon
           outputs: |
-            dist/github-snake.svg?color_snake=#f4b8e4&color_dots=#414559,#7d6a9e,#9a7fc2,#b48ed6,#ca9ee6
+            dist/github-snake.svg?color_snake=#af3a03&color_dots=#ebdbb2,#d9d6a2,#b8bb26,#98971a,#79740e
+            dist/github-snake-dark.svg?color_snake=#fe8019&color_dots=#3c3836,#5f5f14,#79740e,#98971a,#b8bb26
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
