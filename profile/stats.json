@@ -1,5 +1,5 @@
 {
-  "today": "2026-11-17",
+  "today": "2026-11-18",
   "since": "2021-04-12",
   "repos": 16,
   "languages": [
@@ -40,8 +40,8 @@
       1
     ]
   ],
-  "contributions": 1333,
-  "streak": 0,
+  "contributions": 1393,
+  "streak": 1,
   "best": 31,
   "commits_by_year": [
     [
@@ -66,10 +66,16 @@
     ],
     [
       2026,
-      980
+      1011
     ]
   ],
   "recent_commits": [
+    {
+      "date": "2026-11-17",
+      "repo": "farhankf.my.id",
+      "sha": "a4a1970",
+      "message": "content(site): rewrite the projects and blog abstracts"
+    },
     {
       "date": "2026-11-12",
       "repo": "Dataset-Narkotika_449_486",
@@ -81,12 +87,6 @@
       "repo": "iwlwifi-lar-dkms",
       "sha": "2fb4c4e",
       "message": "docs: streamline README"
-    },
-    {
-      "date": "2026-11-03",
-      "repo": "live-caption-translate",
-      "sha": "6b4eb36",
-      "message": "chore: bump version to 1.1.0"
     }
   ]
 }
