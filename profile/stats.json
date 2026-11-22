@@ -1,11 +1,11 @@
 {
-  "today": "2026-11-21",
+  "today": "2026-11-22",
   "since": "2021-04-12",
-  "repos": 16,
+  "repos": 17,
   "languages": [
     [
       "Python",
-      4
+      5
     ],
     [
       "Jupyter Notebook",
@@ -40,8 +40,8 @@
       1
     ]
   ],
-  "contributions": 1393,
-  "streak": 0,
+  "contributions": 1563,
+  "streak": 13,
   "best": 31,
   "commits_by_year": [
     [
@@ -66,10 +66,16 @@
     ],
     [
       2026,
-      1011
+      1174
     ]
   ],
   "recent_commits": [
+    {
+      "date": "2026-11-21",
+      "repo": "weather-predict",
+      "sha": "d621ff5",
+      "message": "fix(retention): keep gold/hindcast for 12 months"
+    },
     {
       "date": "2026-11-17",
       "repo": "farhankf.my.id",
@@ -81,12 +87,6 @@
       "repo": "Dataset-Narkotika_449_486",
       "sha": "f0b4cb2",
       "message": "Merge pull request #2 from Kumareze/web-showcase"
-    },
-    {
-      "date": "2026-11-03",
-      "repo": "iwlwifi-lar-dkms",
-      "sha": "2fb4c4e",
-      "message": "docs: streamline README"
     }
   ]
 }
